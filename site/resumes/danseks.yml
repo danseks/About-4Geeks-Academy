@@ -1,0 +1,60 @@
+template: "online-cv"
+skin: "blue"
+
+basic_info:
+
+    first_name: Oscar Ivan
+    last_name: Fernandez Morel
+    avatar: https://avatars.githubusercontent.com/u/75477207?s=460&u=9b10333655d6626df0c42ae041178a10725bf82d&v=4
+    summary: |
+      Currently full-time bootcamp at @4GeeksAcademyES
+       • He/Him • Amateur coder, videogame enjoyer 
+    email: danseksfzz@gmail.com 
+    phone: +34 637 903 162
+    website: oscarfdz.com
+    linkedin: https://www.linkedin.com/in/danseks/
+    github: danseks
+
+    languages:
+
+      - idiom: Spanish
+        level: Native
+
+    interests:
+      - item: Coding
+
+      - item: Gaming
+        
+experiences:
+    - role: Student
+      time: 2021 - Present
+      company: 4Geeks Academy 
+      company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      details: |
+        Learning HTML, CSS, Bootstrap4, JS, Angular, React, SQL, Python during the turbo-intensive bootcamp.
+      
+projects:
+    intro: >
+      Here you can see a short list of my work as a student in 4GeeksAcademy
+    assignments:
+      - title: Instagram Post with Bootsrap
+        link: https://github.com/danseks/instagram-feed-bootstrap
+        tagline: "Fully responsive Instagram-look-a-like feed using HTML and CSS exclusively."
+
+      - title: Form Bootstrap and Javascript
+        link: https://github.com/danseks/Form_Validations
+        tagline: "Very styled form in HTML and Bootstrap"
+
+skills:
+    toolset:
+      - name: HTML5
+        level: 90%
+
+      - name: Javascript
+        level: 60%
+
+      - name: CSS
+        level: 70%
+
+      - name: Bootstrap
+        level: 70%
